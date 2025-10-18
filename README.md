@@ -42,4 +42,4 @@ The 50% Mark: An interesting finding is that the model caught exactly as many ch
 Wasted Effort (False Positives): The model incorrectly flagged 136 loyal customers as "likely to churn." This could lead to wasted marketing money, as the company would be giving discounts to people who weren't planning on leaving anyway.
 
 In summary: The model is highly reliable at finding safe customers but is currently in a "coin-flip" (50/50) scenario for identifying at-risk customers. The next step to improve this project would be to focus on techniques (like oversampling, or tuning model parameters) to reduce the 187 "False Negatives" and catch more of the customers who are about to leave.
-# prediction-model--churn
+
