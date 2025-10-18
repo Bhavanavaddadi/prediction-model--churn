@@ -2,6 +2,23 @@
 
 A complete end-to-end data science project that trains an XGBoost model to predict customer churn and deploys it as an interactive web app using Gradio.
 
+## 💾 Dataset
+This project uses the "Telco Customer Churn" dataset.
+
+Source: Kaggle
+
+Original Creator: IBM Sample Datasets
+
+Description: The dataset contains 7043 customer records, each with 21 attributes. These attributes include:
+
+Demographic Info: Gender, senior citizen status, partner, dependents.
+
+Customer Account Info: Tenure, contract type, payment method, monthly charges, and total charges.
+
+Services: Phone service, multiple lines, internet service, online security, tech support, etc.
+
+Target Variable: The Churn column, which indicates whether the customer left the company.
+
 ## 🚀 App Preview
 
 Here is a look at the final application in action. The user can input a customer's details on the left and instantly receive a prediction and probability on the right.
